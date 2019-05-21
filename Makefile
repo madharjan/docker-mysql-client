@@ -38,7 +38,7 @@ run:
 		sleep 2
 
 test:
-	sleep 5
+	sleep 20
 	./bats/bin/bats test/tests.bats
 
 stop:
