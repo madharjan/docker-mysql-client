@@ -13,13 +13,13 @@ Docker container with PostgreSQL Client based on [gliderlabs/alpine](https://git
 
 ### Environment
 
-| Variable             | Default      | Example        |
-|----------------------|--------------|----------------|
+| Variable        | Default      | Example        |
+|-----------------|--------------|----------------|
 | MYSQL_HOST      |              | 192.168.1.1    |
 | MYSQL_PORT      | 5432         | 1235           |
-| MYSQL_DATABASE  | postgres     | mydb           |
-| MYSQL_USERNAME  | postgres     | myuser         |
-| MYSQL_PASSWORD  |              | mypass         |
+| MYSQL_DATABASE  | temp         | mydb           |
+| MYSQL_USERNAME  | mysql        | myuser         |
+| MYSQL_PASSWORD  | mysql        | mypass         |
 
 ## Build
 
